@@ -1,13 +1,7 @@
 
 <div align="center">
 
-# ArslanDevelop
-
-### Founder · Developer · YouTube Automation Specialist
-
-**Building software, AI-powered tools, automation systems & digital businesses.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ArslanDevelop-D97757?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArslanDevelop)
+<img src="https://raw.githubusercontent.com/ArslanDevelop/ArslanDevelop/main/banner.png" alt="ArslanDevelop Banner" width="100%" />
 
 </div>
 
@@ -21,13 +15,13 @@ I build companies, develop software, experiment with AI and create tools that tu
 
 This GitHub is my central development hub — bringing together my businesses, software projects, automation systems and technical experiments.
 
-My focus:
+### My Focus
 
-- **Software Development** — Building applications, platforms and developer tools.
-- **Artificial Intelligence** — Exploring AI agents, workflows and intelligent systems.
-- **YouTube Automation** — Developing scalable content workflows, tools and automation solutions.
-- **Business & Products** — Turning ideas into digital businesses and practical products.
-- **Automation** — Connecting systems, simplifying processes and improving efficiency.
+- **Software Development** — Applications, platforms and developer tools.
+- **Artificial Intelligence** — AI agents, workflows and intelligent systems.
+- **YouTube Automation** — Scalable content workflows, tools and automation solutions.
+- **Business & Products** — Digital businesses and practical products.
+- **Automation** — Connecting systems and improving efficiency.
 
 ---
 

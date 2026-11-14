@@ -1,8 +1,6 @@
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ArslanDevelop/ArslanDevelop/main/banner.png" alt="ArslanDevelop Banner" width="100%" />
-
+  <img src="./banner.png" alt="ArslanDevelop Banner" width="100%" />
 </div>
 
 ---

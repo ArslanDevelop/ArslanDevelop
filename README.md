@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm **Arslan**, a founder, software developer and YouTube Automation (YTA) specialist.
+I'm **Arslan**, a founder, software developer and YouTube Automation specialist.
 
 I build companies, develop software, experiment with AI and create tools that turn ideas into working products.
 
